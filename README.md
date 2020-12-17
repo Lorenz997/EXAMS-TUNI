@@ -24,6 +24,11 @@ All these exams were done remotely on Moodle/TEAMS etc. because of the virus-sit
 - DEE-34406: Model Predictive Control of Power Electronic Systems (_December 2020_)
     - Remote exam.
     
-- DEE-54206: Electrical Energy Storages and Electric Vehicles
+- DEE-54206: Electrical Energy Storages and Electric Vehicles (_December 2020_)
     - Remote exam.
     - The lecturer included, by a mistake, some draft-questions at the end that included some answers to the 1<sup>st</sup> task. :zany_face: 
+
+- TTA-31011: Yrityksen Talous (_December 2020_)
+    - Forms-remote exam.
+    - Differs from a "regular" exam. Much harder IMO.
+    - Also check out https://github.com/Temez1/Yrityksen-talous-7-tunnissa when preparing for the exam.
